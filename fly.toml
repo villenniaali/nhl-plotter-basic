@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for nhl-plotter-basic on 2024-06-13T22:36:59+03:00
+# fly.toml app configuration file generated for nhl-plotter-basic2 on 2024-06-13T23:26:36+03:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'nhl-plotter-basic'
+app = 'nhl-plotter-basic2'
 primary_region = 'arn'
 
 [build]
